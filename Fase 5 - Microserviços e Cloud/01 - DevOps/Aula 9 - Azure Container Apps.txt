@@ -1,0 +1,8 @@
+Aula 9 - Azure Container Apps
+Fase 5 - Microserviços e Cloud
+Capítulo: DevOps
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=626308&sesskey=XPGXRqAzGE
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=626317
+
+Obs.: links exigem login na plataforma FIAP.

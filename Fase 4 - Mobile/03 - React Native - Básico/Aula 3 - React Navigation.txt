@@ -1,0 +1,8 @@
+Aula 3 - React Navigation
+Fase 4 - Mobile
+Capítulo: React Native - Básico
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=614794&sesskey=XPGXRqAzGE
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=614798
+
+Obs.: links exigem login na plataforma FIAP.

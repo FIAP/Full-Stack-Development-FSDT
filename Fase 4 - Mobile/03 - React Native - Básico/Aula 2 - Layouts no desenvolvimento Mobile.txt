@@ -1,0 +1,8 @@
+Aula 2 - Layouts no desenvolvimento Mobile
+Fase 4 - Mobile
+Capítulo: React Native - Básico
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=614793&sesskey=XPGXRqAzGE
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=614797
+
+Obs.: links exigem login na plataforma FIAP.

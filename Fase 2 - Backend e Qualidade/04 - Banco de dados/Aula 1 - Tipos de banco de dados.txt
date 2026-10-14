@@ -1,0 +1,8 @@
+Aula 1 - Tipos de banco de dados
+Fase 2 - Backend e Qualidade
+Capítulo: Banco de dados
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=549182&sesskey=XPGXRqAzGE
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=549188
+
+Obs.: links exigem login na plataforma FIAP.

@@ -1,0 +1,8 @@
+Aula 5 - Testando Componentes React
+Fase 3 - Frontend
+Capítulo: React - Advanced
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=600077&sesskey=XPGXRqAzGE
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=600082
+
+Obs.: links exigem login na plataforma FIAP.

@@ -1,0 +1,8 @@
+Aula 1 - Cloud x On Premise
+Fase 5 - Microserviços e Cloud
+Capítulo: Arquitetura Cloud
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=626347&sesskey=XPGXRqAzGE
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=626351
+
+Obs.: links exigem login na plataforma FIAP.

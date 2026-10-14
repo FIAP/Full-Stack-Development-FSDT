@@ -1,0 +1,8 @@
+Aula 1 - As arquiteturas de microsserviços
+Fase 5 - Microserviços e Cloud
+Capítulo: Microsserviços
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=626336&sesskey=XPGXRqAzGE
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=626341
+
+Obs.: links exigem login na plataforma FIAP.

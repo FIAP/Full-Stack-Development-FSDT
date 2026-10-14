@@ -1,0 +1,8 @@
+Aula 4 - Jest
+Fase 4 - Mobile
+Capítulo: React Native - Câmeras e sensores
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=614817&sesskey=XPGXRqAzGE
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=614822
+
+Obs.: links exigem login na plataforma FIAP.

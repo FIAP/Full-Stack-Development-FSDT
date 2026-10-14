@@ -1,0 +1,8 @@
+Aula 3 - CI/CD com Github Action
+Fase 2 - Backend e Qualidade
+Capítulo: Node JS - Integração com banco
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=549169&sesskey=XPGXRqAzGE
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=549174
+
+Obs.: links exigem login na plataforma FIAP.

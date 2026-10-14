@@ -1,0 +1,8 @@
+Aula 2 - Single SPA - root config
+Fase 4 - Mobile
+Capítulo: Microfrontend
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=614773&sesskey=XPGXRqAzGE
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=614778
+
+Obs.: links exigem login na plataforma FIAP.

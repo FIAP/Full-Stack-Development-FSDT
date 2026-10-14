@@ -1,0 +1,8 @@
+Aula 2 - CSS usando o Next.js
+Fase 3 - Frontend
+Capítulo: Next.js
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=600085&sesskey=XPGXRqAzGE
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=600090
+
+Obs.: links exigem login na plataforma FIAP.

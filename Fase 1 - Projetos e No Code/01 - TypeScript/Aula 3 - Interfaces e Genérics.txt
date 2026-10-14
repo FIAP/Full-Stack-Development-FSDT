@@ -1,0 +1,8 @@
+Aula 3 - Interfaces e Genérics
+Fase 1 - Projetos e No Code
+Capítulo: TypeScript
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=537506&sesskey=XPGXRqAzGE
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=537511
+
+Obs.: links exigem login na plataforma FIAP.

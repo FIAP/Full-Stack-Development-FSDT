@@ -1,0 +1,8 @@
+Aula 4 - BD com microsserviços
+Fase 5 - Microserviços e Cloud
+Capítulo: Microsserviços
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=626339&sesskey=XPGXRqAzGE
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=626344
+
+Obs.: links exigem login na plataforma FIAP.

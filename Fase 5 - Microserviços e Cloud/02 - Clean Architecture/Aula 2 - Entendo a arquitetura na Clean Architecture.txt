@@ -1,0 +1,8 @@
+Aula 2 - Entendo a arquitetura na Clean Architecture
+Fase 5 - Microserviços e Cloud
+Capítulo: Clean Architecture
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=626320&sesskey=XPGXRqAzGE
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=626328
+
+Obs.: links exigem login na plataforma FIAP.

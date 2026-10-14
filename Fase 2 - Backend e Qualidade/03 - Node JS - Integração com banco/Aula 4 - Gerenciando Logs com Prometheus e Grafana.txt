@@ -1,0 +1,8 @@
+Aula 4 - Gerenciando Logs com Prometheus e Grafana
+Fase 2 - Backend e Qualidade
+Capítulo: Node JS - Integração com banco
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=549170&sesskey=XPGXRqAzGE
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=549175
+
+Obs.: links exigem login na plataforma FIAP.

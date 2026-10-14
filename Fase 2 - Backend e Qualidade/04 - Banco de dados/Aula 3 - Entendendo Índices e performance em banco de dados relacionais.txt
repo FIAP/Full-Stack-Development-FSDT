@@ -1,0 +1,8 @@
+Aula 3 - Entendendo Índices e performance em banco de dados relacionais
+Fase 2 - Backend e Qualidade
+Capítulo: Banco de dados
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=549184&sesskey=XPGXRqAzGE
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=549190
+
+Obs.: links exigem login na plataforma FIAP.

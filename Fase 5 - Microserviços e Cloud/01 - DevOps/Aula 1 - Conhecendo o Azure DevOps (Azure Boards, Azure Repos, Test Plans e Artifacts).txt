@@ -1,0 +1,8 @@
+Aula 1 - Conhecendo o Azure DevOps (Azure Boards, Azure Repos, Test Plans e Artifacts)
+Fase 5 - Microserviços e Cloud
+Capítulo: DevOps
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=626300&sesskey=XPGXRqAzGE
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=626309
+
+Obs.: links exigem login na plataforma FIAP.

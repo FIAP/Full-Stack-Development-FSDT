@@ -1,0 +1,8 @@
+Aula 4 - Criando APIs no Flutter Flow
+Fase 4 - Mobile
+Capítulo: Flutter Flow
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=614786&sesskey=XPGXRqAzGE
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=614790
+
+Obs.: links exigem login na plataforma FIAP.

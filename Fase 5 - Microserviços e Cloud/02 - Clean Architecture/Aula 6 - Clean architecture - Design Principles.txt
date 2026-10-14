@@ -1,0 +1,8 @@
+Aula 6 - Clean architecture - Design Principles
+Fase 5 - Microserviços e Cloud
+Capítulo: Clean Architecture
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=626324&sesskey=XPGXRqAzGE
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=626332
+
+Obs.: links exigem login na plataforma FIAP.

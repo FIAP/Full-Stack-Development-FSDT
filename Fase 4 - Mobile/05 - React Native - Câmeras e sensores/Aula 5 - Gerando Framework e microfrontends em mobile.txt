@@ -1,0 +1,8 @@
+Aula 5 - Gerando Framework e microfrontends em mobile
+Fase 4 - Mobile
+Capítulo: React Native - Câmeras e sensores
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=614818&sesskey=XPGXRqAzGE
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=614823
+
+Obs.: links exigem login na plataforma FIAP.

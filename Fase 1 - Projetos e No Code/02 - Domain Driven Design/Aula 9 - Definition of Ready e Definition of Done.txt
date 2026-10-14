@@ -1,0 +1,8 @@
+Aula 9 - Definition of Ready e Definition of Done
+Fase 1 - Projetos e No Code
+Capítulo: Domain Driven Design
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=537523&sesskey=XPGXRqAzGE
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=537532
+
+Obs.: links exigem login na plataforma FIAP.

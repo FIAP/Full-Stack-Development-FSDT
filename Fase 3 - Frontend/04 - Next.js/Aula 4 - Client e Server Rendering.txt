@@ -1,0 +1,8 @@
+Aula 4 - Client e Server Rendering
+Fase 3 - Frontend
+Capítulo: Next.js
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=600087&sesskey=XPGXRqAzGE
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=600092
+
+Obs.: links exigem login na plataforma FIAP.

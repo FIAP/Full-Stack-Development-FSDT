@@ -1,0 +1,8 @@
+Aula 2 - State / Props
+Fase 3 - Frontend
+Capítulo: React - O princípio
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=600059&sesskey=XPGXRqAzGE
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=600066
+
+Obs.: links exigem login na plataforma FIAP.

@@ -1,0 +1,8 @@
+Aula 2 - Quando usar microsserviços e monolitos
+Fase 5 - Microserviços e Cloud
+Capítulo: Microsserviços
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=626337&sesskey=XPGXRqAzGE
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=626342
+
+Obs.: links exigem login na plataforma FIAP.
